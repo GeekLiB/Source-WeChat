@@ -1,16 +1,16 @@
 # 微信小程序开发资源
 ## 视频教程
-* ###[［极客学院］从基础到实战](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
+- [［极客学院］从基础到实战](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
 ![](images/4.png)
-* ###[微信小程序开发实战第二季](http://edu.csdn.net/course/detail/3045)
+- [微信小程序开发实战第二季](http://edu.csdn.net/course/detail/3045)
 ![](images/5.png)
 * ###[你不知道的微信小程序](http://edu.csdn.net/course/detail/3022)
 ![](images/6.jpg)
-* ###[微信小程序开发实战](http://edu.csdn.net/course/detail/3011)
+- [微信小程序开发实战](http://edu.csdn.net/course/detail/3011)
 ![](images/7.png)
-* ###[微信小程序实战教程](http://edu.csdn.net/course/detail/3009)
+- [微信小程序实战教程](http://edu.csdn.net/course/detail/3009)
 ![](images/8.png)
-* ###[微信小程序项目实战](http://edu.csdn.net/course/detail/3019)
+- [微信小程序项目实战](http://edu.csdn.net/course/detail/3019)
 ![](images/9.png)
 ***
 ## 开源项目
