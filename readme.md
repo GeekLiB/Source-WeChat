@@ -1,5 +1,5 @@
-#微信小程序开发资源
-##视频教程
+# 微信小程序开发资源
+## 视频教程
 * ###[［极客学院］从基础到实战](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
 ![](images/4.png)
 * ###[微信小程序开发实战第二季](http://edu.csdn.net/course/detail/3045)
@@ -13,7 +13,7 @@
 * ###[微信小程序项目实战](http://edu.csdn.net/course/detail/3019)
 ![](images/9.png)
 ***
-##开源项目
+## 开源项目
 * ###[SmallAppForQQ](https://github.com/GeekLiB/SmallAppForQQ)--微信小程序高仿QQUI
 ![](images/1.png)
 
@@ -37,7 +37,7 @@
 * ###[weapp-demo](https://github.com/zce/weapp-demo)--微信小程序（应用号）示例教程（豆瓣电影）
 
 
-##文档
+## 文档
 * ###[官方文档](http://wxopen.notedown.cn/)
 ***
 ## 文章
@@ -58,7 +58,7 @@
 * ### [IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)
 * ### [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
 ***
-##教程
+## 教程
 * ### [首个微信小程序开发教程(掘金)](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
 * ### [微信小程序开发教程！(稀土区)](http://xituqu.com/508.html)
 * ### [微信小程序怎么开发？玩物志用一个上午上线了电商应用(爱范儿)](http://www.ifanr.com/721124)
