@@ -13,7 +13,7 @@
 - [微信小程序项目实战](http://edu.csdn.net/course/detail/3019)
 ![](images/9.png)
 ***
-- ## 开源项目
+## 开源项目
 - [SmallAppForQQ](https://github.com/GeekLiB/SmallAppForQQ)--微信小程序高仿QQUI
 ![](images/1.png)
 
@@ -37,10 +37,10 @@
 - [weapp-demo](https://github.com/zce/weapp-demo)--微信小程序（应用号）示例教程（豆瓣电影）
 
 
-- ## 文档
+## 文档
 - [官方文档](http://wxopen.notedown.cn/)
 ***
-- ## 文章
+## 文章
 
 -  [未来是h5的：写在微信应用号发布之际(CNode)](https://cnodejs.org/topic/57e330d07d8293463a01e7e0)
 -  [微信“小程序”让我脑洞大开(简书)](http://www.jianshu.com/p/60c8fd8d6862)
@@ -51,14 +51,14 @@
 -  [一张图看微信小程序(前端之路 - DRY)](http://zhenhua-lee.github.io/manmage/wx.html)
 -  [微信小程序要这样解读](http://blog.csdn.net/yanzhenjie1003/article/details/52698184)
 ***
-- ## 工具
+## 工具
 
 -  [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
 -  [微信小程序配置及目录在线生成工具](https://weapptool.com)
 -  [IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)
 -  [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
 ***
-- ## 教程
+## 教程
 -  [首个微信小程序开发教程(掘金)](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
 -  [微信小程序开发教程！(稀土区)](http://xituqu.com/508.html)
 -  [微信小程序怎么开发？玩物志用一个上午上线了电商应用(爱范儿)](http://www.ifanr.com/721124)
