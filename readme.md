@@ -4,7 +4,7 @@
 ![](images/4.png)
 - [微信小程序开发实战第二季](http://edu.csdn.net/course/detail/3045)
 ![](images/5.png)
-* ###[你不知道的微信小程序](http://edu.csdn.net/course/detail/3022)
+- [你不知道的微信小程序](http://edu.csdn.net/course/detail/3022)
 ![](images/6.jpg)
 - [微信小程序开发实战](http://edu.csdn.net/course/detail/3011)
 ![](images/7.png)
@@ -22,7 +22,7 @@
 - [weapp-gold](https://github.com/GeekLiB/weapp-gold)--微信小程序的掘金信息流 
 ![](images/3.gif)
 - [weapp-weipiao](https://github.com/GeekLiB/weapp-weipiao)--微信小程序-微票
-* ###[WeApp](https://github.com/liujians/WeApp)--微信UI
+- [WeApp](https://github.com/liujians/WeApp)--微信UI
 ![](images/4.gif)
 - [wxapp-hiapp](https://github.com/BelinChung/wxapp-hiapp)
 - [timer](https://github.com/kraaas/timer)--时钟
@@ -56,7 +56,6 @@
 -  [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
 -  [微信小程序配置及目录在线生成工具](https://weapptool.com)
 -  [IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)
--  [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
 ***
 ## 教程
 -  [首个微信小程序开发教程(掘金)](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
