@@ -12,6 +12,7 @@
 ![](images/8.png)
 - [微信小程序项目实战](http://edu.csdn.net/course/detail/3019)
 ![](images/9.png)
+
 ***
 ## 开源项目
 - [wechat-app-music](https://github.com/eyasliu/wechat-app-music)--微信小程序：音乐播放器
