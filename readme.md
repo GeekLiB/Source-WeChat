@@ -14,6 +14,8 @@
 ![](images/9.png)
 ***
 ## 开源项目
+- [wechat-app-music](https://github.com/eyasliu/wechat-app-music)--微信小程序：音乐播放器
+- [wxapp_ToDo](https://github.com/maczyt/wxapp_ToDo)--微信小程序のToDolist
 - [SmallAppForQQ](https://github.com/GeekLiB/SmallAppForQQ)--微信小程序高仿QQUI
 ![](images/1.png)
 
