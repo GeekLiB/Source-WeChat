@@ -15,7 +15,7 @@
 
 ***
 ## 开源项目
-- []()
+- [DoubanBookApp 豆瓣图书](https://github.com/oopsguy/WechatSmallApps)－－高仿豆瓣读书
 - [AppleMusic](https://github.com/Sioxas/AppleMusic)--微信小程序，仿Apple Music
 - [WechatSmallApps](https://github.com/oopsguy/WechatSmallApps)--豆瓣图书
 - [wechat-app-music](https://github.com/eyasliu/wechat-app-music)--微信小程序：音乐播放器
